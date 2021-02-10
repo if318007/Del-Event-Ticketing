@@ -1,1 +1,2 @@
 # Del-Event-Ticketing
+Proyek yang akan dibangun ini dapat digunakan oleh mahasiswa institut teknologi del. Penyelenggaraan sebuah event dari pengelola atau event organizer terkadang mengalami kendala dalam melakukan promosi dan mengumpulkan cukup banyak peserta, disisi lain mahasiswa juga perlu untuk mengetahui informasi lengkap mengenai event yang akan diselenggarakan. Untuk memenuhi kebutuhan tersebut maka perlu dirancang sebuah aplikasi untuk mempermudah event organizer dan para peserta tersebut. 
