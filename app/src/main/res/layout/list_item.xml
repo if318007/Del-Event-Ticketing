@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/list_item"
+        android:gravity="center_vertical">
+ 
+ 
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/list_item_text_view"
+        android:background="@drawable/my_message"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:elevation="2dp"
+        android:textSize="18sp"
+        android:layout_alignParentRight="true"
+        android:text="Placeholder message"/>
+ 
+</LinearLayout>

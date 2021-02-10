@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DelEventTicketing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome to Del Event Ticketing Chat !!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_destinasi">Destinasi</string>
+    <string name="title_akun">Akun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DestinasiPopuler">Destinasi Populer</string>
+    <string name="Aktivitas">Aktivitas Populer</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="created_on">Created On</string>
+    <string name="jlhrating">4.8</string>
+    <string name="ulas">(2,037 Ulasan)</string>
+    <string name="detailtoba">Tidak banyak jenis olahraga tradisional Indonesia yang muncul di permukaan. Beberapa olahraga tradisional yang sudah diketahui secara umum adalah Pencak Silat, Egrang, Bakiak/Terompah, Tarik Tambang, Balap Karung, Karapan Sapi, Kelereng, Gasing, dan Sumpit. Sementara yang lain, seperti Benteng, Galah Asin, Benjang, Langga, Manggurebe, Pacu Jalur, Pathol, dan Zawo-Zawo, hanya dikenal oleh kalangan terbatas, terutama di daerah tempat olahraga itu berasal.</string>
+    <string name="Deskripsi">Deskripsi</string>
+    <string name="paduan">Paduan Pemesanan</string>
+    <string name="titik">.</string>
+    <string name="paduan1">Anda harus memesan tiket sebelum event berlangsung atau sebelum memasuki area event yang akan dilakukan</string>
+    <string name="paduan2">Pesan setidaknya 2-5 hari akademik sebelum tanggal kegiatan akan dilakukan</string>
+    <string name="paduan3">Nama, Nim, dan prodi harus sesuai dengan KTM Mahasiswa</string>
+    <string name="HargaRanu">300,980</string>
+    <string name="jlhrating1">4.6</string>
+    <string name="jlhrating2">4.7</string>
+    <string name="ulas3">1,321</string>
+    <string name="telaga">Air Terjun Telaga</string>
+    <string name="jlhrating11">4.7</string>
+    <string name="detailterjun">pentas seni adalah wujud pertunjukkan seni dalam berbagai bentuk, seperti: pertunjukan musik, tarian, drama/teater dan berbagai macam bentuk ktreatifitas seni lainnya yang dilakukan oleh para siswa dan siswi yang bersekolah di dalam sekolah tersebut. Pensi juga bisa ditambah dengan berbagai kegiatan bazar yang dimaksudkan untuk menggalang sejumlah dana yang akan digunakan sebagai bentuk sumbangan sosial.
+    </string>
+    <string name="pesanan">Pesanan</string>
+    <string name="KopiSore">“Kopi Sore” merupakan Acara yang digagas oleh Kabinet Keluarga Mahasiswa ITB dan diselenggarakan setiap tahun.  Sebuah Talkshow atau dialog terbuka yang membahas isu atau topik tertentu antara Mahasiswa dengan Stakeholder atau Pengelola IT DEL khususnya Kampus Jatinangor, yang bertujuan untuk meningkatkan hubungan harmonis antara mahasiswa dengan pihak pengelola.</string>
+    <string name="Festifal">Tuhan hadir dalam pujian umat-Nya, oleh karena itulah jika kita ingin merasakan hadirat Tuhan, salah satu caranya adalah melalui pujian dan penyembahan kepada Tuhan. Banyak orang yang rindu hadirat Tuhan melawat bangsa Indonesia, oelh sebab itulah beberapa orang anak Tuhan yang bergelut di dunia musik rindu berkumpul Bersama untuk memuji dan menyembah Tuhan.</string>
+    <string name="Valentine">Hari raya ini sekarang terutama diasosiasikan dengan para pencinta yang saling bertukaran notisi-notisi dalam bentuk \"valentines\". Simbol modern Valentine antara lain termasuk sebuah kartu berbentuk hati dan gambar sebuah Cupido (Inggris: cupid) bersayap. Mulai abad ke-19, tradisi penulisan notisi pernyataan cinta mengawali produksi kartu ucapan secara massal. The Greeting Card Association (Asosiasi Kartu Ucapan AS) memperkirakan bahwa di seluruh dunia sekitar satu miliar kartu valentine dikirimkan per tahun.[1] Hal ini membuat hari raya ini merupakan hari raya terbesar kedua setelah Natal di mana kartu-kartu ucapan dikirimkan. Asosiasi yang sama ini juga memperkirakan bahwa para wanitalah yang membeli kurang lebih 85% dari semua kartu valentine.</string>
+    <string name="Hallowen">Halloween sebuah perayaan yang berasal dari bangsa Celtic, yaitu nenek moyang bangsa eropa. Festival Halloween ini diawali dari festival \'SAMHAIN\'. Samhain berasal dari bahasa Irlandia kuno yang berarti akhir musim panas. Bangsa Celtic percaya bahwa akhir Oktober merupakan hari dimana pembatas antara dunia manusia dan dunia orang mati terbuka. Dalam kepercayaan mereka, pada tanggal 31 Oktober, orang yang sudah mati akan masuk ke dunia manusia untuk menyebarkan penyakit dan juga merusak tanaman yang akan manusia panen.</string>
+    <string name="keluarga">Hari Keluarga Nasional sebaiknya tidak hanya diperingati sebatas seremonial saja. Jadikan momen tersebut sebagai refleksi diri, sejauh mana kita menghabiskan waktu berkualitas bersama keluarga.  Siapapun yang sudah berkeluarga pasti merasakan tantangan menjalankan kehidupan keluarga, khususnya berkaitan dengan waktu. Ayah dan ibu yang bekerja merasa waktu dengan anak dan pasangan berkurang, sementara ibu rumah tangga juga harus bisa tetap menemani anak sekaligus mendidik mereka di tengah urusan rumah tangga yang tidak ada habisnya.  Kurangnya waktu berkualitas dalam keluarga bisa menyebabkan renggangnya ikatan antara ayah, ibu, dan anak, termasuk bagi mereka yang belum memiliki keturunan.</string>
+    <string name="lomba">Agar suatu acara dapat terlihat kreatif dan menarik, banyak hal yang bisa anda lakukan, dan bahkan tidak selalu dengan membuat suatu acara menjadi unik alias belum pernah dilakukan sebelumnya oleh siapapun.  Yang terpenting di sini adalah anda harus memastikan acara tersebut akan meninggalkan kesan yang mendalam dan menyenangkan bagi mereka yang berpartisipasi, baik sebagai pengunjung, peserta, pengisi acara, ataupun penyandang dana dan sponsor.</string>
+
+
+
+    </resources>
